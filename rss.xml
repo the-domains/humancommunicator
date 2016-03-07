@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[humancommunicator]]></title>
         <description><![CDATA[humancommunicator]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/humancommunicator/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 00:19:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 00:25:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/humancommunicator/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f67ed65-6a05-4fc5-8448-a15a389a30d4.jpg">]]></description>
+            <link>https://thegrid.ai/humancommunicator/f89f6262-fa78-40c5-8573-77e7140640fc/index.html</link>
+            <guid isPermaLink="false">f89f6262-fa78-40c5-8573-77e7140640fc</guid>
+            <pubDate>Mon, 07 Mar 2016 00:24:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a69c827-c796-4bfb-a7b5-7794eb6064ba.jpg">]]></description>
-            <link>undefined41bffe88-acf6-4f20-ac01-dc1b10b6b7cd/index.html</link>
+            <link>https://thegrid.ai/humancommunicator/41bffe88-acf6-4f20-ac01-dc1b10b6b7cd/index.html</link>
             <guid isPermaLink="false">41bffe88-acf6-4f20-ac01-dc1b10b6b7cd</guid>
             <pubDate>Mon, 07 Mar 2016 00:19:21 GMT</pubDate>
         </item>
